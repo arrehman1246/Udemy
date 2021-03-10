@@ -13,4 +13,4 @@ print("------------")
 for item in shopping_list:
     if item == "spam":
         break
-    print("Buy " + item)
+    print("Buyy " + item)
